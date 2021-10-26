@@ -2,9 +2,9 @@
   "name": "node-hello",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "clase.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node clase.js"
   },
   "repository": {
     "type": "git",
